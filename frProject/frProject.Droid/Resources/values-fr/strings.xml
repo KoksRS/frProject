@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_text_dictionary">Dictionaire</string>
+    <string name="button_text_exercises">Les exercices</string>
+    <string name="button_text_rules">Les règles</string>
+</resources>

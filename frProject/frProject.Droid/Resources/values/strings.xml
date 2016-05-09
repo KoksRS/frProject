@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="button_text_dictionary">Словарь</string>
+	<string name="button_text_exercises">Изучение слов</string>
+	<string name="button_text_rules">Правила</string>
+</resources>

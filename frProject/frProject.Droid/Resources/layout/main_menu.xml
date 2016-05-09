@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:background="@drawable/background">
+    <Button
+        style="@style/blue_button"
+        android:id="@+id/button_exercises"
+        android:text="@string/button_text_exercises"/>
+    <Button
+        style="@style/blue_button"
+        android:text="@string/button_text_rules"
+        android:id="@+id/button_rules" />
+    <Button
+        style="@style/blue_button"
+        android:text="@string/button_text_dictionary"
+        android:id="@+id/button_dictionary" />
+</LinearLayout>
